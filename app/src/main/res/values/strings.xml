@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">IMC</string>
+    <string name="txt1">Seleccione un nombre cientifico para ver su descripcion</string>
+    <string name="carac">Caracteristicas Del cafe</string>
+    <string name="button">Button</string>
+    <string-array name="nombres">
+        <item>Arabica(Coffea Arabica)</item>
+        <item>Robusta(Coffea Canephora)</item>
+        <item>Liberica(Coffea Liberica)</item>
+
+    </string-array>
+</resources>
